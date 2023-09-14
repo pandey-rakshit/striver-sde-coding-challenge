@@ -53,13 +53,13 @@ row --             --             row  --             --
 row  --             --           row  --              --
         step 1                            step2
 
+```
 
 step 1: initialize two array of size m and n representing row and col, and set each element to 1
 
 step 2 and 3: traverse the array and search for 0 once you find it mark the row and col index using the array we created initially and set to 0 as shown in figure.
 
- step 4: Traverse the matrix again check if the corresponding row or col is marked using col and row array if Yes change the element to 0 and at last return the matrix
-```
+step 4: Traverse the matrix again check if the corresponding row or col is marked using col and row array if Yes change the element to 0 and at last return the matrix
 
 #### How it helps us to improve time complexity ?
 
