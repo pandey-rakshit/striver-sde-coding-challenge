@@ -30,14 +30,13 @@ check below diagram for clearing the approach
   --             --           --               --
       step 1                        step 2
 
+```
 
 step 1 - start traversing the matrix
 
 step 2 and 3 - As soon you find 0 change respective row and column to -1
 
-step 4 - make every -1 to 0  and return the matrix
-
-```
+step 4 - make every -1 to 0 and return the matrix
 
 #### In step 2 and 3 we are changing it to -1 why not 0 ?
 
