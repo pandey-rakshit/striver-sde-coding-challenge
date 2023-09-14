@@ -35,6 +35,6 @@ We all know that a problem can have many solutions. however, we can classify sol
 
 - Naive - [Brute force](./naive/readme.md)
 
-- Better than naive - [Better Solution]()
+- Better than naive - [Better Solution](./better-than-naive/readme.md)
 
 - Best solution - [Optimal Solution]()
