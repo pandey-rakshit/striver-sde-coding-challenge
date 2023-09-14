@@ -31,7 +31,7 @@ and first row except the first column represent the column array.
 
 now we can see 1 column is less in the column array so lets take a variable col0 to represent the missing column.
 
-![index problem](https://takeuforward.org/wp-content/uploads/2023/04/Screenshot-2023-04-04-001419.png)
+![index problem](https://i.ibb.co/gtg2ZRW/index-problem.webp)
 
 ```
 
