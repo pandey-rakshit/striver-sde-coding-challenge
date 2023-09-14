@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/set-matrix-zeroes">73. Set Matrix Zeroes</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> integer matrix <code>matrix</code>, if an element is <code>0</code>, set its entire row and column to <code>0</code>&#39;s.</p>
+# [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
+
+### [Home](../../README.md)
+
+### [Day 1](../readme.md)
+
+### [Solution Approach](./solution/readme.md)
+
+<h3>Medium</h3><hr><p>Given an <code>m x n</code> integer matrix <code>matrix</code>, if an element is <code>0</code>, set its entire row and column to <code>0</code>&#39;s.</p>
 
 <p>You must do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in place</a>.</p>
 

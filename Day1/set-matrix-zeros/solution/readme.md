@@ -1,5 +1,9 @@
 # Set Matrix Zeros - Solutions
 
+### [Home](../../../README.md)
+
+### [Question](../readme.md)
+
 ## Problem Understanding
 
 Before actually solving the problem we must understand the problem what the problem is all about
@@ -29,7 +33,7 @@ We are given a matrix that has `m` rows and `n` column and if it contain `0` as 
 
 We all know that a problem can have many solutions. however, we can classify solutions in three different categories
 
-- Naive - [Brute force](./naive.md)
+- Naive - [Brute force](./naive/readme.md)
 
 - Better than naive - [Better Solution]()
 

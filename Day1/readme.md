@@ -4,6 +4,6 @@
 
 ## contents
 
-| s.no |                  coding problem                  | status | solution |
-| :--: | :----------------------------------------------: | ------ | :------: |
-|  01  | [set matrix zeros](./set-matrix-zeros/readme.md) | [ ]    |          |
+| s.no |                  coding problem                  | status |                   Approach                    |
+| :--: | :----------------------------------------------: | ------ | :-------------------------------------------: |
+|  01  | [set matrix zeros](./set-matrix-zeros/readme.md) |        | [view](./set-matrix-zeros/solution/readme.md) |

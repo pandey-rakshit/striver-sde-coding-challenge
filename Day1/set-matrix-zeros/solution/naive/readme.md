@@ -1,4 +1,8 @@
-## [Approaches](./approach.md)
+## [Solutions Approach](../readme.md)
+
+### [Home](../../../../README.md)
+
+### [Question](../../readme.md)
 
 ### Solutions - Brute Force
 
