@@ -6,3 +6,4 @@ This repository contain all the problems statement and solutions to all the prob
 
 - [Day 1 - Arrays ](./Day1/readme.md)
   - [set matrix zeros](./Day1/set-matrix-zeros/readme.md)
+  - [Pascal's Triangle](./Day1/pascals-triangle/readme.md)
